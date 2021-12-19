@@ -2,7 +2,6 @@
 """ Takes an argument and returns exit status """
 import sys
 import os
-from typing import Counter
 
 if __name__ == "__main__":
     file_html = []
